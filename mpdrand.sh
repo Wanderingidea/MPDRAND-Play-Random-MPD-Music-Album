@@ -1,7 +1,7 @@
 #!/bin/bash
 
-RNDDEV="/dev/ttyUSB0"
-MUSICDIR="$HOME/Muziek"
+RNDDEV="/dev/random"
+MUSICDIR="$HOME/Music"
 
 ls $RNDDEV >/dev/null 2>&1 || exit 1
 ls $MUSICDIR >/dev/null 2>&1 || exit 1
