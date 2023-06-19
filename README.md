@@ -1,5 +1,5 @@
 # mpdrand
-Bash script to play a random MPD album
+Bash script to play a random MPD album.
 <br>
 Uses MPD and MPC to play a random album and shows information with album art using notify-send.<br>
 <br>
